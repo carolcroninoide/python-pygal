@@ -1,7 +1,12 @@
-# Years
+#Python Pygal PLE
+#Author: Carol Cronin
+#Contact: computerscience@oide.ie
+#-1 in the data set is where the country did not participate/qualify
+
+#Years
 years = list(range(1965, 2026))
 
-# Ireland positions
+#Ireland positions
 ireland_positions = [
     6, 7, 8, 4, 10, 1, 12, 11, 9, 15,
     13, 10, -1, 3, 5, 1, 17, 2, 2, 2,
@@ -12,7 +17,7 @@ ireland_positions = [
     -1
 ]
 
-# Sweden positions
+#Sweden positions
 sweden_positions = [
     -1, 2, 8, 7, 5, 3, 5, 2, 8, 1,
     5, 10, 4, 12, 9, 7, 8, 3, 1, 11,
@@ -22,3 +27,4 @@ sweden_positions = [
     1, 6, -1, 14, 15, 1, 6, 4, 4, 7,
     4
 ]
+
